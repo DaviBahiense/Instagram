@@ -18,7 +18,7 @@ header {
     justify-content: center;
     align-items: center;
 
-    position: absolute;
+    
     position: fixed;
     z-index: 1
 }
@@ -585,6 +585,11 @@ aside p {
         width: 612px;
     }
     footer {
+        width: 100%;
+        bottom: 0px;
+        left: 0px;
+        
+        position: fixed;
         
     }
     
